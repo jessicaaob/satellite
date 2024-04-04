@@ -85,3 +85,5 @@ only 3 steps to update and push:
     git push -u origin master
 
 Testing git -> github on warp terminal
+
+Updated global useer email to track commits on github
