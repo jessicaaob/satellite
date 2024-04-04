@@ -83,3 +83,5 @@ only 3 steps to update and push:
     git add .
     git commit -m "message"
     git push -u origin master
+
+Testing git -> github on warp terminal
