@@ -1,4 +1,6 @@
+----------------------------------------------------------------------
 1) MAC OS
+----------------------------------------------------------------------
 Creating VENV Steps:
     conda create --name <venv_name> python=3.9
         note: no space in python=3.9
@@ -14,8 +16,9 @@ Other helpful:
     ls 
         for directory
 
-
+------------------------------------------------------------------------
 2) cookiecutter:
+----------------------------------------------------------------------
 Materials:
     https://www.youtube.com/watch?v=MaIfDPuSlw8&list=LL&index=62
     https://drivendata.github.io/cookiecutter-data-science/
@@ -52,8 +55,9 @@ Choose the following:
 
 Done    
 
-
+----------------------------------------------------------------------
 3) git
+----------------------------------------------------------------------
 Tried cloning already created repository:
     git clone https://github.com/jessicaaob/satellite.git
 Got this:
@@ -88,7 +92,7 @@ only 3 steps to update and push:
         tracking relationship that was established. 
         This saves you from having to specify the remote and branch each time you push changes.
 
-Testing git -> github on warp terminal
+*Testing git -> github on warp terminal
 
 Updated global user email to track contributions on github
     git config --global user.email "your_email@example.com"
