@@ -1,7 +1,7 @@
-satellite_test
+satellite_repo
 ==============================
 
-Testing and learning satellite image analysis usingng python
+Testing and learning satellite image analysis using python
 
 Project Organization
 ------------
